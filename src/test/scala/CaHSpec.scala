@@ -1,5 +1,6 @@
 import org.scalatest.WordSpec
 import org.scalatest.matchers.should.Matchers
+import view.CaHMain
 
 class CaHSpec extends WordSpec with Matchers  {
   "The CaH main class" should {
